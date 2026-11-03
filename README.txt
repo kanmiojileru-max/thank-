@@ -1,0 +1,1 @@
+Deploy index.html and vercel.json at the project root. No name input or Personalize button is displayed. Use ?name=Evang.%20Tokunbo in the URL to personalize the envelope and letter. Without a name, the greeting is Our Esteemed Guest. All images are embedded in index.html.
